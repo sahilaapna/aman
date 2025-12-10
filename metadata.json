@@ -1,0 +1,8 @@
+{
+  "name": "Aman",
+  "description": "Aman - Your tranquil companion. A multimodal stress-relief assistant powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
